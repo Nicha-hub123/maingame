@@ -4,7 +4,7 @@ local placeId = game.PlaceId
 -- ตารางรวมลิงก์สคริปต์แยกตาม PlaceId ของแต่ละเกม
 local scripts = {
     -- [PlaceId ของเกม] = "ลิงก์ Raw สคริปต์ของเกมนั้น"
-    [113945994875620] = "https://raw.githubusercontent.com/USER/REPO/main/bloxfruits.lua", -- ตัวอย่าง: Blox Fruits
+    [113945994875620] = "https://raw.githubusercontent.com/Nicha-hub123/maingame/refs/heads/main/Slimeoutfish.lua",
     [1234567890] = "https://raw.githubusercontent.com/USER/REPO/main/fishgame.lua",   -- ตัวอย่าง: Fish Game
     [9876543210] = "https://raw.githubusercontent.com/USER/REPO/main/kinglegacy.lua", -- ตัวอย่าง: King Legacy
 }
